@@ -1,0 +1,148 @@
+[
+    {
+        "header": "Dashboards",
+        "items": [
+            {
+                "text": "Dashboard",
+                "icon": "bx bx-home",
+                "link": "/dashboard"
+            }
+        ]
+    },
+    {
+        "header": "Users Data",
+        "items": [
+            {
+                "text": "Users",
+                "icon": "",
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Add User",
+                        "link": "/adduser"
+                    },
+                    {
+                        "text": "Users List",
+                        "link": "/userlist"
+                    },
+                    {
+                        "text": "New Users List",
+                        "link": "/user-list"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Companies Data",
+        "items": [
+            {
+                "text": "Companies",
+                "icon": "",
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Add Company",
+                        "link": "/addcompany"
+                    },
+                    {
+                        "text": "Companies List",
+                        "link": "/companieslist"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Department Data",
+        "items": [
+            {
+                "text": "Departments",
+                "icon": "",
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Add Department",
+                        "link": "/add-department"
+                    },
+                    {
+                        "text": "Department List",
+                        "link": "/department-list"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Module Data",
+        "items": [
+            {
+                "text": "Modules",
+                "icon": "",
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Add Module",
+                        "link": "/add-module"
+                    },
+                    {
+                        "text": "Module List",
+                        "link": "/module-list"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Sub Module Data",
+        "items": [
+            {
+                "text": "Sub Modules",
+                "icon": "",
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Add Sub Module",
+                        "link": "/add-sub-module"
+                    },
+                    {
+                        "text": "Sub Module List",
+                        "link": "/sub-module-list"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Accounting & Finance",
+        "items": [
+            {
+                "text": "Chart of Accounts",
+                "icon": "bx bx-box",
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "List COA",
+                        "link": "/chartofaccounts"
+                    },
+                    {
+                        "text": "Add Journal Entry",
+                        "link": "/layout/without-navbar"
+                    },
+                    {
+                        "text": "List of Journal Entry",
+                        "link": "/layout/container"
+                    },
+                    {
+                        "text": "IC Journal Entry",
+                        "link": "/layout/fluid"
+                    },
+                    {
+                        "text": "Trial Balance",
+                        "link": "/layout/blank"
+                    }
+                ]
+            }
+        ]
+    }
+]
